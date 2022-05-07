@@ -1,0 +1,7 @@
+Modelling a problem in OOPs
+___>>> It's Applicable for Big and Complicated problem
+
+Noun ___> Class ___> Employee
+Adjective ___> Attribute ___> name, age, salary
+Verb ___> Method ___> getSalary() increment()
+
